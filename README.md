@@ -17,9 +17,10 @@ Before you can run this application, ensure that you have the following dependen
 2. Switch to the master branch of your forked repository.
 
 3. Navigate to the frontend directory of the project and install the required Node.js packages by running:
+4. ```npm start```
 
 
-4. Switch to the backend directory of the project and build the Rust application by running:
+5. Switch to the backend directory of the project and build the Rust application by running:
 
 ```shell
 cd backend
